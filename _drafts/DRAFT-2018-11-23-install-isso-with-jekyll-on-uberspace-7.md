@@ -7,9 +7,9 @@ taxonomy:
     category:
         - how-to
     tag:
-		- anleitung
-		- uberspace
-		- jekyll
+- anleitung
+- uberspace
+- jekyll
 ---
 
 Ich habe einen Account auf Uberspace, der mit Version 7 läuft. Dort habe ich mir Jekyll als statisches Weblog-System installiert, wie ihr seht :-) Allerdings habe ich mich dann doch wieder mit dem **Thema** *statische Websiten-Ersteller* (Jekyll, Pelican, Octopress…) und *Kommentaren* beschäftigt. Kommentare sind ja kein *Big-Data*, sollten es zumindest nicht sein, somit fällt **Disqus** als externer Kommentardienstleister raus. Disqus kenne ich noch aus anderen Website-Zusammenhängen und eigentlich hat es mir auch nie gefallen. Aber wie dem auch sei… Dann gibt es da noch statische Generatoren, die dann nur die Zusammenbindung der Kommentare in Azure auslagern, aber nicht die Daten woanders speichern etc., allerdings benötigt es Github und Azure. Beides habe ich nicht. Ich habe mein Jekyll auf Uberspace gehostet und rsynce die statischen Seiten nach `~/html`.
