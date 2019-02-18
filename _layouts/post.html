@@ -22,16 +22,24 @@ body_class: post-template
     <div class="text" id="js-post-content">
         {{ content }}
     </div>
-
+<hr>
+{% comment %}
+=======================
+The purpose of this snippet is to list all the tags you have in your site.
+=======================
+{% endcomment %}
+{% for tag in tags %}
+	<a href="#{{ tag | slugify }}"> {{ tag }} </a>
+{% endfor %}
 	<hr>
 <div class="meta">
 		{% if site.isso.script_src %}
 			<script data-isso="{{site.isso.data_isso}}" src="{{site.isso.script_src}}"></script>
 			<section id="isso-thread"></section>
 		{% endif %}
-</div>		
+</div>
 	<hr>
-	
+
     <menu>
       <a href="" id="btn_share" class="btn" title="Share">
         <span aria-hidden="true" data-icon="S"></span>
