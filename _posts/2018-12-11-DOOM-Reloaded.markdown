@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Inoffizielle) Doom Fortsetzung Anfang 2019!
+title: "(Inoffizielle) Doom Fortsetzung Anfang 2019! [UPDATE]"
 date: '17:20 2018-12-11'
 image: doom.jpg
 tags: 
@@ -25,6 +25,8 @@ John Romero veröffentlicht praktisch zum 25. Jubiläum des Actionklassikers Doo
 Die Mod soll kostenlos erscheinen, Geld will Romero aber mit zwei unterschiedlich teuren Spezialausgaben verdienen, die Extras wie einen Soundtrack, einen USB-Stick mit dem Aussehen einer Floppy Disk und Aufkleber enthalten.
 
 ([via](https://www.golem.de/news/sigil-john-romero-setzt-doom-fort-1812-138179.html))
+
+[**UPDATE**] Wie *John Romero* in einem [Blogeintrag ](https://rome.ro/news/2019/2/16/sigil-update) berichtet, gab es ein paar Verzögerungen bei der Fertigstellung von Sigil. Demnach wird zunächst die BOX-Variante Anfang April verschickt, sodass sich die freie Version, die erst danach kommt, auf irgendwann nach der BOX verschiebt. Also können wir ca. Mitte April mit einer Veröffentlichung rechnen.
 
 <small>
 **Artikelbild**: Das Foto stammt von mir.
