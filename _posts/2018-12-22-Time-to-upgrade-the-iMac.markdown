@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Es ist Zeit für ein Upgrade des iMacs
-date: 2018-12-22
+date: 2018-12-22 00:00:00 +0000
 image: imac_cover.jpg
-tags: 
- - iMac 2010
- - 512 GB SSD
- - Upgrade
- - fancable
- - trim
----
+tags:
+- iMac 2010
+- 512 GB SSD
+- Upgrade
+- fancable
+- trim
 
+---
 **Hallo Freunde**, ich bin gerade ein wenig stolz. Denn ich habe meinen **iMac** eigenhändig erweitert, hardwareseitig. Das mag zwar *trivial* klingen, jedoch ist es bei einem iMac nicht gerade leicht diesen überhaupt zu öffnen. Apple sieht dies für den Endkunden nicht vor, man darf selbst praktisch nur den Arbeitsspeicher erweitern, an diesen gelangt man über eine leicht zugängliche Serviceklappe, alles andere aber bleibt dem teuren *Apple Servicepartner* vorbehalten. <!--more-->
 
 ![](/assets/2018/12/imac/upgrade.png)
@@ -65,6 +65,8 @@ Ein Problem auf das ich stieß, lag an mangelnder Sorgfalt. Ich habe die Kabel d
 Was noch wichtig ist? TRIM-Support. [Im folgenden Artikel](/2018/12/22/how-to-enable-trim/) beschreibe ich kurz, wie man TRIM unter macOS für seine nicht-Apple-SSD aktiviert.
 
 *Das wars auch schon wieder*, bis bald. Wenn ihr Fragen habt, kommentiert einfach :-)
+
+---
 
 <small>
 **Artikelbild**: Photo by [Sora Sagano](https://unsplash.com/photos/WFSap6CIXuw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/imac?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
