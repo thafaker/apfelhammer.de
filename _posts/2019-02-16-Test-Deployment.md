@@ -1,5 +1,5 @@
 ---
-title: Deployment of apfelhammer.de
+title: Deployment of apfelhammer.de [UPDATE]
 tags:
 - test
 - jekyll
@@ -35,7 +35,9 @@ Da ich meine Website immer neu bauen muss, ist das natürlich ziemlich nervig. S
 Ein weiterer Nachteil statischer Websites ist der Fakt, dass hier keine KOmmentare abgebilder werden können. Denn Kommentare sind dynamisch. Dies muss man zusätzlich über Dritt-Applikationen schaffen. Dynamische CMS o.ä. haben Kommentare über ihr eigenes Datenbanksystem bereits intergriert.
 Sicher gibt es noch viele weitere Nachteile, auf die ich hier aber gerade nicht eingehen möchte, da ihr hierfür die Kommentar-Funktion nutzen könnt.
 
-Eigentlich ist das ziemlich verrückt. Also das muss ich noch kurz ausführen :-) Eigentlich war ich irgendwie immer ein Freund von Movable Type, einem der ersten CMS für Weblogs und Seiten und der Erfinder des Trackbacks, also jener Technik die beim Bloggen andere Weblogs informiert, dass man über sie geschrieben hat. Das war damals ein großes Ding und alle Weblogsoftware baute diese Trackback-Funktion ein. Aber wie dem auch sei. Am Ende war Movable Type folgendes: ein CMS in das man sich einloggen konnte und was alle Vorteile bot, die man so braucht: 
+Eigentlich ist das ziemlich verrückt. Also das muss ich noch kurz ausführen :-) Eigentlich war ich irgendwie immer ein Freund von **Movable Type**, einem der ersten CMS für Weblogs und Seiten und der Erfinder des Trackbacks, also jener Technik die beim Bloggen andere Weblogs informiert, dass man über sie geschrieben hat. Das war damals ein großes Ding und alle Weblogsoftware baute diese Trackback-Funktion ein. Aber wie dem auch sei. Am Ende war Movable Type folgendes: ein CMS in das man sich einloggen konnte und was alle Vorteile bot, die man so braucht: Benutzerverwaltung, Uploads, Templates etc. pp.
+Aber am Ende, wenn man seine Website mit MT fertig gestellt hatte, dann wurde sie quasi statisch zusammen gebaut und veröffentlicht. Nur, dass das innerhalb des CMS geschah. Aber im Hintergrund, da war das eigentlich überhaupt nichts anderes, als das was ich mit Forestry.io und Jekyll auf Github mache - nämliche statische HTML-Dateien erstellen. 
+Das Thema ist also eigentlich schon alt, nur Movable Type hat es nicht wirklich geschafft.
 
 ---
 
