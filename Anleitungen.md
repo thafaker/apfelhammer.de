@@ -3,7 +3,7 @@ layout: page
 title: How Tos
 ---
 
-Auf diesen Seiten stehen euch verschiedene Anleitungen [^1] zur Verfügung, die im Laufe der Zeit entstanden sind.
+Auf diesen Seiten stehen euch verschiedene Anleitungen [^1] zur Verfügung, die im Laufe der Zeit auf meinen Websites, meist weil ich sie seber durchgeführt habe, entstanden sind.
 
 [**Macintosh**]
 * [Wie man eine Grafikkarte für den Mac flasht - EFI Rom](https://apfelhammer.de/2019/02/06/Flash-GPU-MacPro/)
