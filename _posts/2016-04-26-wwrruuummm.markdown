@@ -6,12 +6,13 @@ image: 540.jpg
 tags: 
  - V8
  - autolove
+ - 540i
 ---
 
 **Well…** *It's fast and kickin'* - So oder ähnlich könnte man beschreiben, wie sich mein alter V8 fährt. In kurzer Zuschreibung: *großartig*! Die Erhabenheit des Dahingleitens, bäm. Wenn man einsteigt, den Schlüssel umdreht, die Startautomatik übernimmt und sich der Wagen kurz durchschüttelt vor lauter Kraft, das fühlt sich sehr gut an. Dann geht er sofort in ein sonores, sehr dezentes bollern über. Ein V8-Bollern, allerdings nicht so ein lautes wie von Ami-Schlitten her bekannt. Nein, ein ganz dezentes, welches man im Alltag auch nur wahrnimmt, wenn man Gas gibt oder es sehr leise ist - eben beim Start. Und das ist auch gut so, will ich doch auch entspannt und mit Komfort reisen, nicht mit extrem lauten Fahrgeräuschen. Dann bräuchte ich einen Rennwagen auf der Nordschleife, das hat auch seinen Reiz, ist aber hier etwas anderes als V8 zu fahren - im Alltag. Täglich eben.
 
 ![BMW E39 540iA Touring, Xenon, 4.4l V8](/assets/2016/v8.jpg)
-<small>"Corona Ringe" an BMW E39 540iA Touring, Xenon, 4.4l V8</small>
+<small>"Corona Ringe" an BMW E39 540iA Touring, Xenon, 4.4 Liter V8</small>
 
 Aber wenn ich die Leistung abverlange, wenn ich das Gaspedal durchtrete, die Automatik einen Gang zurück schaltet und plötzlich nicht enden wollender Vorschub zur Verfügung steht: dann hört man ihn. Und auch das ist gut so.
 
@@ -29,3 +30,8 @@ Natürlich kann man die Frage anbringen, warum man heutzutage V8 im Alltag fahre
 
 Ja…
 *Ich fahr V8*.
+
+---
+<small>
+ **Artikelbilder**: Alle Bilder (C) Jan Montag.
+</small>
