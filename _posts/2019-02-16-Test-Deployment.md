@@ -16,11 +16,11 @@ date: 2019-02-16, 22:09:25
 ![Mein Jekyll Workflow](/assets/2019/02/Jekyll-Workflow.jpg)
 <small>apfelhammer.de Workflow zur Veröffentlichung der Webseite.</small>
 
-Demnach funktioniert diese Website also folgendermaßen: \[^1\]
+Demnach funktioniert diese Website also folgendermaßen: [^1]
 
-1. Ich schreibe meine Artikel mit Markdown, es sind also Textdateien die einer gewissen Ausschreibungssprache folgen \[^2\]. Zugehörige CSS-Dateien bilden das Design ab. Zusammen gemengt wird das Später dann via Jekyll, dem eigentlich statischen Website-Generator. Er generiert aus meinen Markdowns und den CSS-Dateien (und optional Javascript) eine fertige Webseite. **Apfelhammer.de**
-2. Die Datein werden automatisch in ein Repository auf Github.com veröffentlicht. Dort liegen sie rum und sind versioniert und bieten alle Vorteile, die Github so bieten kann. Eigentlich ist Github für Programmierer und zueghörigen Code, aber man kann eigentlich auch seine eigene Master-Thesis da drin speichern \[^3\].
-3. Nun greift eine sogenannte CI \[^4\] ein, [Buddy.Works](https://buddy.works), diese wird automatisch angeschoben, weil Github ihr mitteilt, dass etwas im Repository (da wo meine Website liegt) passiert ist. Nämlich genau dann, wenn ich z.B. eine neue Markdown Datei, so wie diese hier, verfasst habe, also ein neuer Artikel fertig ist. Oder ein Bild. Oder das Theme sich geändert hat.
+1. Ich schreibe meine Artikel mit Markdown, es sind also Textdateien die einer gewissen Ausschreibungssprache folgen [^2]. Zugehörige CSS-Dateien bilden das Design ab. Zusammen gemengt wird das Später dann via Jekyll, dem eigentlich statischen Website-Generator. Er generiert aus meinen Markdowns und den CSS-Dateien (und optional Javascript) eine fertige Webseite. **Apfelhammer.de**
+2. Die Datein werden automatisch in ein Repository auf Github.com veröffentlicht. Dort liegen sie rum und sind versioniert und bieten alle Vorteile, die Github so bieten kann. Eigentlich ist Github für Programmierer und zueghörigen Code, aber man kann eigentlich auch seine eigene Master-Thesis da drin speichern [^3].
+3. Nun greift eine sogenannte CI [^4] ein, [Buddy.Works](https://buddy.works), diese wird automatisch angeschoben, weil Github ihr mitteilt, dass etwas im Repository (da wo meine Website liegt) passiert ist. Nämlich genau dann, wenn ich z.B. eine neue Markdown Datei, so wie diese hier, verfasst habe, also ein neuer Artikel fertig ist. Oder ein Bild. Oder das Theme sich geändert hat.
 4. Nun wird die CI aktiv und generiert die Website. In einem Container. Unsichtbar. Sie nimmt also meine Website aus dem Github Repository, startet **Jekyll**, baut mit Jekyll meine Website fertig zusammen, führt noch einen Test durch ob meine Website auch in Ordnung ist, gibt dann ein OKAY wenn alle Tests erfolgreich durchgelaufen sind (bei mir wird der HTML-Code geprüft)
 5. und lädt dann über einen Terminal-Befehl die fertig generierte Jekyll-Website hoch auf meinen Webserver, der bei Uberspace liegt…
 6. … und so ist meine Website veröffentlicht. Das Ergebnis seht ihr gerade vor euch, während ihr diesen Artikel lest.
@@ -58,7 +58,7 @@ Das Thema ist also eigentlich schon alt, nur Movable Type hat es nicht wirklich 
 
 **Fußnoten:**
 
-\[^1\]: Den Arbeitsablauf habe ich selber gemacht. Bitte lachen Sie nicht. Die Symbole und Grafiken sind Eigentum der jeweiligen Firmen. Alle Rechte vorbehalten.
-\[^2\]: Markdown ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde. Ein Ziel von Markdown ist, dass schon die Ausgangsform ohne weitere Konvertierung leicht lesbar ist. [Quelle](https://de.wikipedia.org/wiki/Markdown).
-\[^3\]: GitHub ist ein Onlinedienst, der Software-Entwicklungsprojekte auf seinen Servern bereitstellt (Filehosting). Namensgebend war das Versionsverwaltungssystem Git. Die GitHub, Inc. hat ihren Sitz in San Francisco in den USA.[Quelle](https://de.wikipedia.org/wiki/GitHub)
-\[^4\]: CI bedeutet _Continous Integration_, und der Service führt alleine gewisse Aktionen durch, bezogen auf Software-Code oder eben hier meine Website, wenn es dazu automatisiert einen Befehl erhält. Bei mir: gibt es Änderung oder neue Datei? Dann generiere Website neu und stelle sie online.
+[^1]: Den Arbeitsablauf habe ich selber gemacht. Bitte lachen Sie nicht. Die Symbole und Grafiken sind Eigentum der jeweiligen Firmen. Alle Rechte vorbehalten.
+[^2]: Markdown ist eine vereinfachte Auszeichnungssprache, die von John Gruber und Aaron Swartz entworfen und im Dezember 2004 mit Version 1.0.1 spezifiziert wurde. Ein Ziel von Markdown ist, dass schon die Ausgangsform ohne weitere Konvertierung leicht lesbar ist. [Quelle](https://de.wikipedia.org/wiki/Markdown).
+[^3]: GitHub ist ein Onlinedienst, der Software-Entwicklungsprojekte auf seinen Servern bereitstellt (Filehosting). Namensgebend war das Versionsverwaltungssystem Git. Die GitHub, Inc. hat ihren Sitz in San Francisco in den USA.[Quelle](https://de.wikipedia.org/wiki/GitHub)
+[^4]: CI bedeutet _Continous Integration_, und der Service führt alleine gewisse Aktionen durch, bezogen auf Software-Code oder eben hier meine Website, wenn es dazu automatisiert einen Befehl erhält. Bei mir: gibt es Änderung oder neue Datei? Dann generiere Website neu und stelle sie online.
