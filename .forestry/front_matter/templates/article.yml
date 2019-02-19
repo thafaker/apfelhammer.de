@@ -23,6 +23,3 @@ fields:
 - type: text
   name: categories
   label: Kategorie
-pages:
-- _posts/2019-02-14-apfelhammer-de-nutzt-github.md
-- _posts/2019-02-18-Lorem.md
