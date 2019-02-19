@@ -7,7 +7,7 @@ tags:
 - fix.it
 - github
 - buddyworks
-image: "dlanor-s-703975-unsplash.jpg"
+image: dlanor-s-703975-unsplash.jpg
 date: 2019-02-16, 22:09:25
 
 ---
@@ -34,6 +34,10 @@ Früher waren eigentlich alle Seiten mal statisch. Sie bestanden aus ein paar HT
 Da ich meine Website immer neu bauen muss, ist das natürlich ziemlich nervig. Selbst wenn ich nur ein Komma ändere, muss ich die Seite neu generieren, sie durch Jekyll in meinem Fall also neu zusammen bauen lassen, sie per Hand überprüfen ob alles okay ist, sie FTP-Programm o.ä. auf den Webserver hoch laden und erst dann wäre mein geändertes Komma online.
 Ein weiterer Nachteil statischer Websites ist der Fakt, dass hier keine KOmmentare abgebilder werden können. Denn Kommentare sind dynamisch. Dies muss man zusätzlich über Dritt-Applikationen schaffen. Dynamische CMS o.ä. haben Kommentare über ihr eigenes Datenbanksystem bereits intergriert.
 Sicher gibt es noch viele weitere Nachteile, auf die ich hier aber gerade nicht eingehen möchte, da ihr hierfür die Kommentar-Funktion nutzen könnt.
+
+Eigentlich ist das ziemlich verrückt. Also das muss ich noch kurz ausführen :-) Eigentlich war ich irgendwie immer ein Freund von Movable Type, einem der ersten CMS für Weblogs und Seiten und der Erfinder des Trackbacks, also jener Technik die beim Bloggen andere Weblogs informiert, dass man über sie geschrieben hat. Das war damals ein großes Ding und alle Weblogsoftware baute diese Trackback-Funktion ein. Aber wie dem auch sei. Am Ende war Movable Type folgendes: ein CMS in das man sich einloggen konnte und was alle Vorteile bot, die man so braucht: 
+
+---
 
 <small>
 **Artikelfoto:** Photo by [Dlanor S](https://unsplash.com/photos/2xEQDxB0ss4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.<br />
