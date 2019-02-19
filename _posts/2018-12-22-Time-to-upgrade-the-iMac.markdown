@@ -76,6 +76,6 @@ Was noch wichtig ist? TRIM-Support. [Im folgenden Artikel](/2018/12/22/how-to-en
 
 **Fußnoten**:
 
-[^1]: Das sind keine Affiliate-Links, es sind einfach nur Links die jemandem nützlich sein könnten. 
+[^1]: Das sind keine Affiliate-Links! Sondern Links die jemandem nützlich sein könnten. 
 [^2]: ODD steht für Optical Disk Drive, in meinem Fall also für das DVD-Laufwerk. Das benötige ich nicht mehr. Ich habe ohnehin noch ein externes. Allerdings kann man sich für kleines Geld auch ein leeres externes Gehäuse kaufe und sein ehemaliges internes Laufwerk da einbauen. Dann hat man einen externen DVD-Brenner per USB.
 [^3]: Ich behaupte ja immer, mein iMac von 2010 sei so schnell. Ich finde, dass er sich wirklich immer noch sehen lassen kann. Ein nagelneues Macbook Pro mit Core i5 von 2017 erreicht im [Geekbench 2 gerade mal 8900 ](https://everymac.com/systems/apple/macbook_pro/specs/macbook-pro-core-i5-2.0-13-late-2016-retina-display-no-touch-bar-specs.html), mein [iMac hingegen über 10.000](https://everymac.com/systems/apple/imac/specs/imac-core-i7-2.93-27-inch-aluminum-mid-2010-specs.html). Erstaunlich, was?
