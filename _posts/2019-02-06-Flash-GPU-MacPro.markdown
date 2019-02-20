@@ -11,7 +11,6 @@ tags:
 - 680gtx
 - flash
 - anleitung
-categories: Macintosh
 
 ---
 Wie ich an [passender Stelle](/2019/02/03/Mac-Pro/) bereits verkündet habe, bin ich Besitzer eines **Mac Pro**. Und als Dieser ist es nun meine forschende Aufgabe, mich mit der *Upgrade-Fähigkeit* zu beschäfitgen. Denn eines der Hauptmerkmale des Mac Pro, neben seinem zeitlosen Design, ist zweifelsohne seine Fähigkeit, wie ein ganz normaler Workstation-PC aufgerüstet werden zu können. Bei Bedarf. *USB 3.1*? Kein Problem. *Thunderbolt*? Geht. *Mehr Ram*? Natürlich, 64 oder 128 GB? Ach so, neue *Prozessoren*? Wie viel hätten Sie denn gern, 2 Stück mit 3,46 Ghz? Natürlich, 12 Kerne, darunter darf es nicht sein! Ach und die Grafikkarte auch? Oh, darüber müssen wir genauer reden…
