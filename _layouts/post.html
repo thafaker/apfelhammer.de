@@ -17,7 +17,7 @@ body_class: post-template
         <span>Tags:
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            {{ tag_name }}"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;
+              <code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;
           {% endfor %}
         </span>
         <span class="count" id="js-reading-time">&nbsp;</span>
