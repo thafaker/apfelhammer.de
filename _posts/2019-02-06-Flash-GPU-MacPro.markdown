@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Wie man eine Grafikkarte für den Mac flasht - EFI Rom
-date: 2019-02-06 22:35
+date: 2019-02-06 22:35:00 +0100
 image: geforce.jpg
-tags: 
- - vga
- - geforce
- - nVidia
- - grafikkarte
- - 680gtx
- - flash
- - anleitung
----
+tags:
+- vga
+- geforce
+- nVidia
+- grafikkarte
+- 680gtx
+- flash
+- anleitung
+categories: Macintosh
 
+---
 Wie ich an [passender Stelle](/2019/02/03/Mac-Pro/) bereits verkündet habe, bin ich Besitzer eines **Mac Pro**. Und als Dieser ist es nun meine forschende Aufgabe, mich mit der *Upgrade-Fähigkeit* zu beschäfitgen. Denn eines der Hauptmerkmale des Mac Pro, neben seinem zeitlosen Design, ist zweifelsohne seine Fähigkeit, wie ein ganz normaler Workstation-PC aufgerüstet werden zu können. Bei Bedarf. *USB 3.1*? Kein Problem. *Thunderbolt*? Geht. *Mehr Ram*? Natürlich, 64 oder 128 GB? Ach so, neue *Prozessoren*? Wie viel hätten Sie denn gern, 2 Stück mit 3,46 Ghz? Natürlich, 12 Kerne, darunter darf es nicht sein! Ach und die Grafikkarte auch? Oh, darüber müssen wir genauer reden…
 
 Und schon sind wir beim Thema. [^1] Denn Grafikkarten für Apple-Geräte sind besonders, denn Grafikkarten für Apple-Hardware haben immer auch ein EFI-Firmware-Image, damit sie am Mac richtig funktionieren. Ohne dieser spezielle Software funktionieren sie zwar auch, aber erst wenn das Betriebssystem fertig geladen ist, also beim Login-Bildschirm. Das ist an sich nicht so problematisch, aber wenn man sein System neu aufspielen möchte, wenn man den Bootmanager zur Wahl der Festplatte (hat man etwa eine Dualboot-Installation mit Windows oder Linux auf seinem Mac) wählen möchte - das alles geschieht vor dem Betriebssystem und benötigt eine Mac-kompatible Grafikkarte. Eine MAC-Edition.
@@ -51,7 +52,7 @@ Ihr braucht einen MacPro 3,1 oder 4,1 oder 5,1 (es funktioniert nicht mit einem 
 	Und drückt ENTER.
 11. Sichert das aktuelle ROM was derzeit in eurer Grafikkarte steckt, damit ihr es im Bedarfsfall zurück in eure Karte flashen könnt.
 	<code>nvflash -b Backup-Worscht.rom</code>
-12. Nun flasht ihr die 2 oder 4 GB Rom Variante in die Grafikkarte. Betet zu Krishna.
+12. Nun flasht ihr die 2 oder 4 GB Rom Variante in die Grafikkarte. Betet zu Krishna [^2].
 	<code>nvflash -4 -5 -6 gtx680mac.rom</code>
 13. Wenn Ihr nach Bestätigung gefragt werdet, bestätigt mit YES. Wenn ihr "Warten" sollt, wartet!
 14. Ihr seht eine Erfolgsmeldung. Das ganze findet in dem oben geöffneten CMD Command.Com Fenster statt. Dort stehen auch alle Meldungne drin.
@@ -61,6 +62,8 @@ Ihr braucht einen MacPro 3,1 oder 4,1 oder 5,1 (es funktioniert nicht mit einem 
 *Das wars auch schon wieder*. Bei Fragen könnt ihr gern die Kommentarfunktion benutzen. 
 
 ![Installing macOS Mojave](/assets/2019/02/mojave.jpg)<small>Installing macOS Mojave</small>
+
+---
 
 <small>
 **Artikelbild** 1: Photo by [Reina Kouska](https://unsplash.com/photos/zPHftoPajis?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/nvidia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).<br />
@@ -73,3 +76,4 @@ Ihr braucht einen MacPro 3,1 oder 4,1 oder 5,1 (es funktioniert nicht mit einem 
 **Fußnoten**:
 
 [^1]: Wir sind hier ja praktisch immer beim Thema, ich weiß.
+[^2]: Apfelhammer.de empfiehlt hier übrigens das Beten zu jedem Gott, Hauptsache die Grafikkarte nimmt keinen Schaden.
