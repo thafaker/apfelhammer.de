@@ -15,7 +15,7 @@ category:
 
 **Hallo** Freunde, mit diesem Eintrag möchte ich gern meine _Auto-Push-Variante_ prüfen. Und sozusagen durch das Schreiben dieses Artikels auch gleich durchführen. Sie wissen schon… Ich habe ja [neulich](/2019/02/14/apfelhammer-de-nutzt-github/) bereits berichtet, dass ich hier ein wildes Konstrukt entwickelt habe, was ich kurz aufzeigen möchte. <!--more-->
 
-[]![Mein Jekyll Workflow](/assets/2019/02/Jekyll-Workflow.jpg)](/assets/2019/02/Jekyll-Workflow.jpg)
+[![Mein Jekyll Workflow](/assets/2019/02/Jekyll-Workflow.jpg)](/assets/2019/02/Jekyll-Workflow.jpg)
 <small>apfelhammer.de Workflow zur Veröffentlichung der Webseite.</small>
 
 Demnach funktioniert diese Website also folgendermaßen: [^1]
