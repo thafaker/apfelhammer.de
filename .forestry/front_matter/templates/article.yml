@@ -19,7 +19,6 @@ fields:
 - type: tag_list
   name: tags
   label: TAGs
-- type: datetime
 - type: text
   name: categories
   label: Kategorie
