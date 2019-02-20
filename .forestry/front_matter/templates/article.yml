@@ -20,7 +20,7 @@ fields:
   name: tags
   label: TAGs
 - type: text
-  name: categories
+  name: category
   label: Kategorie
 pages:
 - _posts/2019-02-06-Flash-GPU-MacPro.markdown
