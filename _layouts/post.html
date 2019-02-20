@@ -17,21 +17,13 @@ body_class: post-template
         <span>[
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+            <a href="/tag/{{ tag_name }}"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
           {% endfor %}
         ]</span>
         <span class="count" id="js-reading-time">&nbsp;</span>
       </div>
       <h1>{{ page.title }}</h1>
     </header>
-<!-- TAGs -->
-    <span>[
-      {% for tag in page.tags %}
-        {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-      {% endfor %}
-    ]</span>
-<!-- TAGs -->
     <div class="text" id="js-post-content">
         {{ content }}
     </div>
