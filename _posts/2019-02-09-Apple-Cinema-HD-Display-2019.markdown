@@ -7,8 +7,6 @@ tags:
  - Apple
  - Cinema Display
  - 30
- category:
-- macintosh
 ---
 
 Nachdem ich nun von einem iMac 27" (dieser [hier](/2018/12/22/Time-to-upgrade-the-iMac/)) hin zu einem *epischen* **Mac Pro** (ich [berichtete](/2019/02/03/Mac-Pro/)) mit zwei Prozessoren (MacPro 5,1) gewechselt bin, denke ich über ein Display nach. Thunderbolt-Displays scheiden aus, da mein MacPro kein Thunderbolt besitzt und ich keinerlei weitere Thunderboltgeräte besitze. Apple hat es kluger Weise geschafft, dass Thunderbolt Displays nicht am Display-Port funktionieren. <!--more-->

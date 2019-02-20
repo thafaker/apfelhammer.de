@@ -5,8 +5,6 @@ date: 2019-02-03 21:16
 image: bigmac.jpg
 tags:
  - macpro
- category:
- - macintosh
 ---
 
 **Ich** bin ganz schön stolz, muss ich sagen. Denn als Computer-Freund, Bastel-Fred und **biertrinkender** *Hellraiser* war und ist der **Mac Pro** einer der schönsten, imposantesten und unerschwinglichsten Apple Computer die ich kenne.

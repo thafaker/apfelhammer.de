@@ -11,7 +11,6 @@ tags:
 - 680gtx
 - flash
 - anleitung
-category: macintosh
 
 ---
 Wie ich an [passender Stelle](/2019/02/03/Mac-Pro/) bereits verkündet habe, bin ich Besitzer eines **Mac Pro**. Und als Dieser ist es nun meine forschende Aufgabe, mich mit der *Upgrade-Fähigkeit* zu beschäfitgen. Denn eines der Hauptmerkmale des Mac Pro, neben seinem zeitlosen Design, ist zweifelsohne seine Fähigkeit, wie ein ganz normaler Workstation-PC aufgerüstet werden zu können. Bei Bedarf. *USB 3.1*? Kein Problem. *Thunderbolt*? Geht. *Mehr Ram*? Natürlich, 64 oder 128 GB? Ach so, neue *Prozessoren*? Wie viel hätten Sie denn gern, 2 Stück mit 3,46 Ghz? Natürlich, 12 Kerne, darunter darf es nicht sein! Ach und die Grafikkarte auch? Oh, darüber müssen wir genauer reden…
@@ -34,7 +33,7 @@ Ihr braucht einen MacPro 3,1 oder 4,1 oder 5,1 (es funktioniert nicht mit einem 
 
 1. Ihr braucht Windows dazu. Das nvidia-Flash-Tool funktioniert nur unter Windows. Es geht nicht mit Bootcamp oder einem Emulator (weil der auch die Grafikkarte emulieren würde); Ihr müsst richtig echt Windows auf dem Mac booten ODER die zu flashende Grafikkarte in einen Windows-PC einbauen und dort booten! Gut? Okay.
 2. Die zu flashende Grafikkarte muss wie gesagt eingebaut sein! Bitte keine andere Grafikkarte gleichzeitig iengebaut lassen, nur die zu flashende GTX.
-3. Bootet euren MacPro in macOS, stellt dort im Boot-Manager Windows ein und rebootet. Nun sollte das System automatisch Windows starten. Auch wenn ihr mit der PC-Grafikkarte keinen Bootscreen sehen könnt. Das ist normal. 
+3. Bootet euren MacPro in macOS, stellt dort im Boot-Manager Windows ein und rebootet. Nun sollte das System automatisch Windows starten. Auch wenn ihr mit der PC-Grafikkarte keinen Bootscreen sehen könnt. Das ist normal.
 4. Loggt euch in Windows ein :-)
 5. Ladet euch die folgende Software herunter:
 	- Software zum Flashen: [NVflash](/assets/files/nvflash_windows_5.134.0.1.zip) (5.134)<br />
@@ -56,10 +55,10 @@ Ihr braucht einen MacPro 3,1 oder 4,1 oder 5,1 (es funktioniert nicht mit einem 
 	<code>nvflash -4 -5 -6 gtx680mac.rom</code>
 13. Wenn Ihr nach Bestätigung gefragt werdet, bestätigt mit YES. Wenn ihr "Warten" sollt, wartet!
 14. Ihr seht eine Erfolgsmeldung. Das ganze findet in dem oben geöffneten CMD Command.Com Fenster statt. Dort stehen auch alle Meldungne drin.
-15. Führt einen Reboot durch. Bei mir konnte ich direkt schon beim Reboot den Apfel sehen, das untrügliche Zeichen dafür, dass ich nun einen Boot-Screen habe und die ganze Prozedur funktioniert hat. 
+15. Führt einen Reboot durch. Bei mir konnte ich direkt schon beim Reboot den Apfel sehen, das untrügliche Zeichen dafür, dass ich nun einen Boot-Screen habe und die ganze Prozedur funktioniert hat.
 16. Trinkt zur Freude des Tages ein Bier. Und spielt einen EGO-Shooter.
 
-*Das wars auch schon wieder*. Bei Fragen könnt ihr gern die Kommentarfunktion benutzen. 
+*Das wars auch schon wieder*. Bei Fragen könnt ihr gern die Kommentarfunktion benutzen.
 
 ![Installing macOS Mojave](/assets/2019/02/mojave.jpg)<small>Installing macOS Mojave</small>
 
