@@ -3,11 +3,12 @@ layout: post
 title: MacPro 5,1 2009, 2010, 2012
 date: 2019-02-03 21:16
 image: bigmac.jpg
-tags: 
+tags:
  - macpro
+ category: macintosh
 ---
 
-**Ich** bin ganz schön stolz, muss ich sagen. Denn als Computer-Freund, Bastel-Fred und **biertrinkender** *Hellraiser* war und ist der **Mac Pro** einer der schönsten, imposantesten und unerschwinglichsten Apple Computer die ich kenne. 
+**Ich** bin ganz schön stolz, muss ich sagen. Denn als Computer-Freund, Bastel-Fred und **biertrinkender** *Hellraiser* war und ist der **Mac Pro** einer der schönsten, imposantesten und unerschwinglichsten Apple Computer die ich kenne.
 Er ist sozusagen der *Heilige Gral* der Mac Welt. Und hier spreche ich tatsächlich von der alten "Käsereibe", jenem Mac Pro der als Nachfolger des Powermac G5 nur minimale Veränderungen erfuhr und sich im Design von 2004 bis 2013 durchgängig behauptete. 2013 kam dann der MacPro6,1 bezeichnete, landläufig aber *Trash Can* getaufte, schwarze runde Nachfolger des Mac Pro, der bei weitem nicht so beliebt ist wie sein langhähriger Vorgänger. <!--more-->
 
 ![MacPro 4,1](/assets/2019/02/delivery.jpg)
@@ -25,14 +26,14 @@ Und deshalb kommt hier der **Mac Pro 5,1** ins Spiel, also die Käsereibe, denn 
 
 Und für neue Features wie HandsOff [^2] kann man auch ganz einfach sorgen, hier muss die Hardware von Bluetooth und WLan aktualisiert werden und sogleich verfügt der MacPro sogar über diese aktuellen Features. Das alles funktioniert. Für kleines Geld. Wenn man in den Besitz eines Mac Pros kommt. Ich kann den Versuch nur empfehlen.
 
-Und wenn jetzt jemand auf die Idee kommt und die alten Anschlüsse bemängelt - denn es stimmt, bei USB 2.0 ist hier Schluss - dem sei gesagt dass man auch USB 3 [^4] mitsamt der USB-C-Anschluss-Art [^5] via PCIE-Karte [^3] nachrüsten kann. Lediglich Thunderbolt kann man nicht so einfach nachrüsten, da diese Technik anders funktionert. Apple nutzt nämlich für sein Thunderbolt USB-C. 
+Und wenn jetzt jemand auf die Idee kommt und die alten Anschlüsse bemängelt - denn es stimmt, bei USB 2.0 ist hier Schluss - dem sei gesagt dass man auch USB 3 [^4] mitsamt der USB-C-Anschluss-Art [^5] via PCIE-Karte [^3] nachrüsten kann. Lediglich Thunderbolt kann man nicht so einfach nachrüsten, da diese Technik anders funktionert. Apple nutzt nämlich für sein Thunderbolt USB-C.
 Aber mal ganz ehrlich, ich habe keine Thunderbolt-Geräte. Ich brauche auch keine. Bei einem MacBook müsste ich vielleicht große Festplatten via Thunderbolt anschließen, aber in meinen Mac Pro kann ich diese einfach einbauen. Das dauert 30 Sekunden.
 
 ![Mein MacPro 5,1 mit einem 30-Zoll Apple Cinema Display.](/assets/2019/02/cinema2.jpg)
 <small>Mein MacPro 5,1 mit einem 30-Zoll Apple Cinema Display.</small>
 
-Ich habe noch eine LacIe Firewire 800 (Raid0) Festplatte. Diese kann ich an dem MacPro sogar anschließen. 
-Und ich liebe Firewire. Ich finde auch die Technik hinter Thunderbolt großartig. Aber aus irgendeinem Grunde ist Firewire nicht sonderlich populär geworden, zu teuer in der Lizensierungspraktik, ich weiß es nicht… hoffentlich geht Thunderbolt nicht so einen ähnlichen Weg. 
+Ich habe noch eine LacIe Firewire 800 (Raid0) Festplatte. Diese kann ich an dem MacPro sogar anschließen.
+Und ich liebe Firewire. Ich finde auch die Technik hinter Thunderbolt großartig. Aber aus irgendeinem Grunde ist Firewire nicht sonderlich populär geworden, zu teuer in der Lizensierungspraktik, ich weiß es nicht… hoffentlich geht Thunderbolt nicht so einen ähnlichen Weg.
 
 ![Zwei Thunderbolt-3-Anschlüsse an einem Apple MacBook Pro 2018](/assets/2019/02/tb.png)
 <small>Zwei Thunderbolt-3-Anschlüsse an einem Apple MacBook Pro 2018, proprietär.</small>
