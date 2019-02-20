@@ -9,7 +9,8 @@ tags:
 - pages
 image: "/2019-02-14_lucrezia-carnelos-1060145-unsplash.jpg"
 date: 2019-02-14 21:40:23 +0000
-category: gedanken
+category:
+- gedanken
 
 ---
 **Ist** der Titel eines Songs von **The Velvet Underground**, der mich damals ziemlich beeindruckt hat. Ich hatte gerade damit begonnen die weitreichenden Möglichkeiten des _Wissenserwerbs_ übers Internet zu verstehen, da stieß ich auf Ecki Stieg seine **Grenzwellen** ([Link](http://www.grenzwellen.de/gw_redaktion/modules/news/)). <!--more-->

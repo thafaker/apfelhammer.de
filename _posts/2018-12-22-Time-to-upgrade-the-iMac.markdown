@@ -9,7 +9,8 @@ tags:
 - Upgrade
 - fancable
 - trim
-category: macintosh
+category:
+- macintosh
 ---
 **Hallo Freunde**, ich bin gerade ein wenig stolz. Denn ich habe meinen **iMac** eigenhändig erweitert, hardwareseitig. Das mag zwar *trivial* klingen, jedoch ist es bei einem iMac nicht gerade leicht diesen überhaupt zu öffnen. Apple sieht dies für den Endkunden nicht vor, man darf selbst praktisch nur den Arbeitsspeicher erweitern, an diesen gelangt man über eine leicht zugängliche Serviceklappe, alles andere aber bleibt dem teuren *Apple Servicepartner* vorbehalten. <!--more-->
 

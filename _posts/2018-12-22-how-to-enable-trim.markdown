@@ -10,7 +10,8 @@ tags:
  - osx
  - ssd
  - apple
- category: macintosh
+ category:
+- macintosh
 ---
 
 Neulich habe ich meinen [iMac um eine interne SSD erweitert](/2018/12/22/Time-to-upgrade-the-iMac/) und dafür das DVD-Laufwerk raus geworfen. Allerdings ergibt sich beim Upgrade ein Problem, auf das ich in diesem Artikel kurz eingehen möchte. Apple deaktiviert nämlich den **TRIM-Support** für alle fremden, *nicht apple-eigenen* SSDs, die man sich im Zubehörmarkt nachträglich in seine Kiste baut. So wie ich. Ein kurzer Blick in den Systemprofiler offenbart das Vermutete, für meine neue SSD ist TRIM nicht aktiviert. <!--more-->

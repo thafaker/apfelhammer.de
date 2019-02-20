@@ -8,8 +8,10 @@ tags:
  - reballing
  - backofen
  - grafikkarte
- category: macintosh
----
+ category:
+ - macintosh
+
+ ---
 
 Es ist an der Zeit, mal über die Situation von **Grafikkarten** in iMacs der Generation bis inklusive 2011 zu schreiben. Ich meine hierbei nicht nur das Problem vieler Benutzer mit Ihren defekten Grafikkarten, sondern eher die Behebbarkeit der damit zusammen hängenden Schwierigkeiten. Denn das gestaltet sich nicht ganz so einfach, was in der Natur der Sache liegt. <!--more-->
 
