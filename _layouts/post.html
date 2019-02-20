@@ -14,12 +14,12 @@ body_class: post-template
     <header>
       <a href="{{ site.baseurl }}/" id="home_link">«</a>
       <div class="meta"><time datetime="{{ page.date | date:'%Y-%m-%d' }}"><a href="{{ page.url }}">{{ page.date | date: "%B %d, %Y" }}</a></time>
-        <span>[
+        <span>Tags:
           {% for tag in page.tags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/{{ tag_name }}"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+            {{ tag_name }}"><code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;
           {% endfor %}
-        ]</span>
+        </span>
         <span class="count" id="js-reading-time">&nbsp;</span>
       </div>
       <h1>{{ page.title }}</h1>
