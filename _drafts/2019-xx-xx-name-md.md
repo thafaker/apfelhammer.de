@@ -1,5 +1,5 @@
 ---
-title: Wird es wieder große Macbooks geben?
+title: Erstmals wieder große Macbooks?
 image: "/small-worscht.jpg"
 tags:
 - apple
