@@ -23,6 +23,6 @@ fields:
   name: category
   label: Kategorie
 pages:
-- _posts/2019-xx-xx-name-md.md
+- _posts/2019-02-21-2019-xx-xx-name-md.md
 - _posts/2019-02-16-Test-Deployment.md
 - _posts/2019-02-06-Flash-GPU-MacPro.markdown
