@@ -14,11 +14,9 @@ body_class: post-template
     <header>
       <a href="{{ site.baseurl }}/" id="home_link">«</a>
       <div class="meta"><time datetime="{{ page.date | date:'%Y-%m-%d' }}"><a href="{{ page.url }}">{{ page.date | date: "%B %d, %Y" }}</a></time>
-        <span>Tags:
-          {% for tag in page.tags %}
-            {% capture tag_name %}{{ tag }}{% endcapture %}
+        <span><time datetime="Tags: {% for tag in page.tags %}{% capture tag_name %}{{ tag }}{% endcapture %}
               <code class="highlighter-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;
-          {% endfor %}
+                    {% endfor %}</time>
         </span>
         <span class="count" id="js-reading-time">&nbsp;</span>
       </div>
