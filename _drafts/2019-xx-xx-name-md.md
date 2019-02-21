@@ -1,8 +1,12 @@
 ---
 title: 2019-XX-XX-Name.md
-image: ''
-tags: []
-category: ''
+image: "/small-worscht.jpg"
+tags:
+- apple
+- gerüchte
+- hardware
+- macbook
+category: Gerüchte Apple
 date: 2019-02-21 12:20:10 +0100
 
 ---
@@ -14,7 +18,7 @@ Zum Beispiel gibt es seit der Einstellung Mitte 2012 [^1] keine 17" Macbook Pros
 
 ---
 
-**Artikelbild**: Photo by [Ales Nesetril](https://unsplash.com/photos/Im7lZjxeLhg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
+**Artikelbild**: Photo by [Ales Nesetril](https://unsplash.com/photos/Im7lZjxeLhg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)![](/content/images/small-worscht-1.jpg) on Unsplash
 
 ---
 
