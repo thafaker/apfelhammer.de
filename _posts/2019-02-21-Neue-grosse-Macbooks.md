@@ -15,9 +15,9 @@ date: 2019-02-21 12:20:10 +0100
 Denn seien wir doch mal ehrlich, die letzten Jahre ist bezüglich Produktinnovation alles ziemlich absehbar. Apple aktualisiert die bestehenden Geräte mit einem inneren Hardware-Update: hier ein bisschen mehr RAM, dort ein schnellerer Prozessor oder vielleicht auch mal ein anderer Chipsatz. Aber mehr passiert eigentlich nicht! Alte Produktklassen werden zum teil über Jahre (siehe Macbook Air oder Mac Mini) nicht aktualisiert und bleiben aber dennoch als Neugeräte im Store, sodass der werte Käufer nicht mal mehr sicher sein kann, den besten Mac zu kaufen. So wie früher, nach Steve seiner Rückkehr, als Apple 1998 mit Einführung des *Power Macintosh G3* sein Sortiment entschlackte und bei den Produkten die dann übrig blieben, die besten der Welt entwickelte [^5]. Aber *lass ab*...
 
 Zum Beispiel gibt es seit der Einstellung Mitte 2012 [^1] keine 17" Macbook Pros mehr. Oder die Erfindung eines ordentlichen und modularen MacPro, fernab des schwarzen Mülleimer-Designs, an welchem Apple nach kurzer Produktionsdauer nicht mehr wirklich festhielt. Also zumindest scheint er aufgrund von thermischen Problemen nicht weiter aktualisiert zu werden.
-Laut eigene Aussagen jedoch plant Apple hier übrigens wieder einen MacPro in modularer Bauweise [^2], der zwar nicht vom Design, aber von der Art und Weise an die Käsereibe erinnert, die damals einfach legendär daher kam - der [MacPro](/2019/02/03/Mac-Pro/) von 2006 bis 2012.
+Laut eigene Aussagen jedoch plant Apple hier übrigens wieder einen MacPro in modularer Bauweise [^2], der zwar nicht vom Design, aber von der Art und Weise an die Käsereibe erinnert, die damals einfach legendär daher kam - der [MacPro](/2019/02/03/Mac-Pro/) "Käsereibe" von 2006 bis 2012.
 
-Bei all diesen Schwierigkeiten und Widrigkeiten die sich im weltweiten Business der Markführerschaft so ergeben, da kommt folgende Meldung nun aber gerade recht: Demnach hat nämlich der Apple-Analyst Ming-Chi Kuo [^3] ausgeplaudert, dass 2019 mehr Innovationen von dem Konzern zu erwarten sind.
+Bei all diesen Schwierigkeiten und Widrigkeiten die sich im weltweiten Business der Markführerschaft so ergeben,  kommt folgende Meldung nun aber gerade recht: Demnach hat nämlich der Apple-Analyst **Ming-Chi Kuo** [^3] ausgeplaudert, dass 2019 plötzlich mehr Innovationen von dem Konzern zu erwarten sind, vielleicht ein bischen so wie früher.
 
 ![](/content/images/worscht-small2.jpg)
 
@@ -31,8 +31,10 @@ Klingt alles ziemlich toll, weitere Informationen hierzu gibt es in der [Quelle]
 
 ---
 
+<small>
 **Artikelbild**: Photo by [Ales Nesetril](https://unsplash.com/photos/Im7lZjxeLhg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash <br />
 **Artikelbild 2**: Photo by [Julian O'hayon](https://unsplash.com/photos/Bs-zngH79Ds) on Unsplash
+</small>
 
 ---
 
