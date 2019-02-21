@@ -2,7 +2,7 @@
 layout: post
 title: Apple Magic Mouse - Windows 10 Scroll Probleme
 date: 2019-02-21 18:15
-image: scroll.jpg
+image: /scroll.JPG
 tags:
  - Windows 10
  - Apple
@@ -22,7 +22,7 @@ Ihr habt sie über Bluetooth gepaired. [^1] Zwar könnt ihr klicken und sie benu
 3. Öffnet das entpackte Archiv und wechselt in dem Pfad <code>\BootCamp5.1.5621\BootCamp\Drivers\Apple\</code> und installiert folgende Datei: <code>AppleWirelessMouse64.exe</code>
 4. Deaktiviert die Maus, aktiviert sie wieder und schon sollte die Scrollfunktion zur Verfügung stehen.
 
-![Windows BootCamp Treiber Magic Mouse](/asstes/2019/02/treiber.jpg)
+![Windows BootCamp Treiber Magic Mouse](/asstes/2019/02/treiber.JPG)
 
 Das wars auch schon wieder :-)
 
