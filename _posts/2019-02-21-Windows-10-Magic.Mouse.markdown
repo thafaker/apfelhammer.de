@@ -12,9 +12,10 @@ tags:
 - Maus
 - Anleitung
 - HowTo
----
 
+---
 **Ihr** habt euch auf eurem *Mac Pro* (oder iMac oder Macbook) Windows 10 installiert und alles ist toll. Dann aber stellt ihr fest, dass die *Apple Magic Mouse* nicht richtig funktioniert. <!--more-->
+
 Ihr habt sie über Bluetooth gepaired. [^1] Zwar könnt ihr klicken und sie benutzen, aber die *Scroll-Funktion* liegt brach. Das nervt, gerade weil man heutzutage praktisch überall scrollen muss. Aber zum Glück gibt es einfache Abhilfe: [^2]
 
 1. Ladet euch das [Bootcamp Treiber Paket](https://support.apple.com/kb/dl1720?locale=en_US) von Apple herunter. In meinem Falle war es das hier <code>BootCamp5.1.5621.zip</code>.
