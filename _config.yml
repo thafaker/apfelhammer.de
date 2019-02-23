@@ -4,8 +4,8 @@ logo: logo.png
 email: thafaker@gmx.net
 description: > # this means to ignore newlines until "url:"
  Das ist meine kleine Website, basierend auf Jekyll, einem
- statischen HTML-Generator. Apfelhammer.de! Setzen sie sich
- gern mit mir auseinander. Wir haben hier sogar Kommentare.
+ statischen HTML-Generator. Apfelhammer.de! Hier geht es um
+ Musik, Rennrad, private Texte, Gedanken und Schönheit.
 url: "https://apfelhammer.de" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: apfelhammer
