@@ -2,7 +2,7 @@
 layout: post
 title: Der Achte Sommer
 date: 2018-12-17 20:45
-tags: 
+tags:
  - Mukoviszidose
  - Lunge
  - Dokumentation
@@ -10,7 +10,7 @@ tags:
 
 **Irgendwann** vor langer Zeit, es ist sicher einige Jahre her, da bin ich über diesen Dokumentarfilm *Der achte Sommer* ([Link](http://www.derachtesommer.de/de/der-film.html)) gestoßen. Ich habe ihn damals einfach gesehen, zufällig, in einem dritten Programm. Es ist der Film über *Aline* und *Christian* *Fussi*, über ein Paar welches seit acht Jahren unter ganz bestimmten Umständen zusammen ist. Und der Film hat mich damals ziemlich umgehauen. Im positiven wie negativen Sinne. Umgehauen ist vielleicht das falsche Wort, eher berührt. <!--more-->
 
-Denn beide Protagonisten leiden an dieser Lungenkrankheit *Mukoviszidose* [^1] und gehen an ihr langsam zu Grunde. Im achten Jahr ihrer Partnerschaft entschließen sie sich, einen Dokumentarfilm über ihr Leben drehen zu lassen. Ohne zu wissen, dass einer von beiden dabei sterben wird. 
+Denn beide Protagonisten leiden an dieser Lungenkrankheit *Mukoviszidose* [^1] und gehen an ihr langsam zu Grunde. Im achten Jahr ihrer Partnerschaft entschließen sie sich, einen Dokumentarfilm über ihr Leben drehen zu lassen. Ohne zu wissen, dass einer von beiden dabei sterben wird.
 
 Von Kindheit an haben beide Mukoviszidose, eine Krankheit, die sie wie durch einen Strohhalm atmen lässt. Die meisten Erkrankten sterben mit Mitte dreißig. Doch Aline und Chris hadern nicht mit ihrem Schicksal: „Wir sind glücklicher als die meisten anderen. Zwar haben wir weniger Zeit, aber leben dafür intensiver."
 
@@ -26,6 +26,10 @@ Nun lese ich ganz zufällig, ich weiß nicht wie ich darauf stoßen konnte, dass
 
 Manchmal ist das wirklich ziemlich zum Kotzen mit diesem Leben!
 
+PS: Das ganze hat mich damals auch schon ziemlich berührt, denn ich habe damals ebenfalls darüber berichtet. [Hier](/2012/07/13/wasted-games/) geht es zum 2012er Artikel.
+
+---
+
 <small>
 **Artikelbild**: Kein Artikelbild.
 </small>
@@ -34,4 +38,4 @@ Manchmal ist das wirklich ziemlich zum Kotzen mit diesem Leben!
 
 **Fußnoten**:
 
-[^1]: Mukoviszidose, auch zystische Fibrose genannt, ist eine autosomal-rezessiv vererbte Stoffwechselerkrankung.  In der Doku verklebt die Lunge solange mit Schleim, bis sie sterben. Erste Symptome zeigen sich bereits in der frühen Kindheit. Mukoviszidose kann vorgeburtlich diagnostiziert werden. Die tödlich endende Erkrankung ist derzeit nicht heilbar. 
+[^1]: Mukoviszidose, auch zystische Fibrose genannt, ist eine autosomal-rezessiv vererbte Stoffwechselerkrankung.  In der Doku verklebt die Lunge solange mit Schleim, bis sie sterben. Erste Symptome zeigen sich bereits in der frühen Kindheit. Mukoviszidose kann vorgeburtlich diagnostiziert werden. Die tödlich endende Erkrankung ist derzeit nicht heilbar.
