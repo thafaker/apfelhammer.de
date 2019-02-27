@@ -21,7 +21,7 @@ Welchen Vorteil das bringt? Ich kann plötzlich ein Webinterface, ähnlich einem
 
 Aber wie dem auch sei, es bleibt spannend. Aktuell gefällt mir das sehr gut, obschon ich natürlich aber auch weiterhin die Möglichkeit sehr schätze, meine Daten per Terminal und SSH Verbindung zu bearbeiten, Bilder per FTP hoch zu laden und die Sache mit einem jekyll build am Ende per Hand und rsync zu kopieren. :-)
 
-_Es bleibt also spannend_.
+*Es bleibt also spannend*.
 
 <small>
 **Artikelbild**: Photo by [Thomas Kvistholt](https://unsplash.com/photos/oZPwn40zCK4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.
