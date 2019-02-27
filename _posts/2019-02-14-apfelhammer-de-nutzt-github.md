@@ -6,8 +6,8 @@ tags:
 - pages
 - Apfelhammer.de
 date: 2019-02-14 19:47:43 +0100
-
 ---
+
 An dieser Stelle muss ich aber mal eben davon berichten, wie **Apfelhammer.de** jetzt läuft. Und dabei ist es völlig okay wenn das bei euch, den wehrten Lesern, gleich zwei Fragen aufwirft:
 
 1. Wie soll denn eine Website laufen?
