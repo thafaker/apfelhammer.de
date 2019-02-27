@@ -8,9 +8,9 @@ tags:
 - github
 - pages
 image: "/2019-02-14_lucrezia-carnelos-1060145-unsplash.jpg"
-date: 2019-02-14 21:40:23 +0000
-
+date: 2019-02-25 21:40:23 +0000
 ---
+
 **Ist** der Titel eines Songs von **The Velvet Underground**, der mich damals ziemlich beeindruckt hat. Ich hatte gerade damit begonnen die weitreichenden Möglichkeiten des _Wissenserwerbs_ übers Internet zu verstehen, da stieß ich auf Ecki Stieg seine **Grenzwellen** ([Link](http://www.grenzwellen.de/gw_redaktion/modules/news/)). <!--more-->
 
 Es war sein -an die Radio-Sendung gleichen Namens angelehntes- Internet-Projekt mit dem er, so kann ich heute retrospektiv sagen, echt viel modernes und neues Zeug ausprobiert hat. Zum Beispiel den Verkauf von Musik im Netz. 2004. Vor Apple! Auf jeden Fall hat Ecki [^1] damals unter anderem auch ganz spannende Artikel zu **Nico**, jener Sängerin des legendären *Bananenalbums* von *Velvet Underground*, geschrieben und mich für sie, die Band und all das was später noch kommen sollte, begeistert. Zum Beispiel auch zu [diesem](https://www.instagram.com/p/Bq2FgSEAypc/) Album inspiriert.
