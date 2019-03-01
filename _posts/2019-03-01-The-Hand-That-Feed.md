@@ -19,7 +19,7 @@ Aber wie dem auch sei, jener Trent Reznor hat vor geraumer Zeit angefangen, imme
 ![Garageband auf Apple Cinema Display 30"](/assets/2019/03/garageband.png)
 <small>Garageband auf Apple Cinema Display 30"</small>
 
-Trent Reznor scheint übrigens prinzipiell ein gewisses Interesse an Freien Lizenzen zu haben und so veröffentlichte er zum Beispiel sein 2008er Album
+Trent Reznor scheint übrigens prinzipiell ein gewisses Interesse an Freien Lizenzen zu haben und so veröffentlichte er zum Beispiel sein 2008er Album Ghosts I–IV (auch Halo 26) komplett unter einer Creative Commongs Lizenz [^2] veröffentlicht.
 
 ### Download
 
@@ -43,3 +43,4 @@ Trent hat damals übrigens folgende [Notiz](http://www.ninremixes.com/downloads/
 **Fußnoten**:
 
 [^1]: *.rtf Datei
+[^2]: CC-BY-NC-SA
