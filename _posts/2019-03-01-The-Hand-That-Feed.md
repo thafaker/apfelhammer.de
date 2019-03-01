@@ -28,7 +28,9 @@ Trent Reznor scheint übrigens prinzipiell ein gewisses Interesse an Freien Lize
 | The Hand That Feeds | [Download](http://tinyurl.com/y4t4bjl9) | With Teeth |
 | Only      | [Download](http://tinyurl.com/y436hsbs) | With Teeth |
 
-Trent hat damals übrigens folgende [Notiz](http://www.ninremixes.com/downloads/Official%20-%20The%20Hand%20That%20Feeds%20-%20READ%20ME%20FROM%20TRENT.rtf) [^1] veröffentlicht.
+Alle anderen Songs könnt ihr [direkt](http://www.ninremixes.com/multitracks.php) von der zugehörigen NIN-Domain downloaden, ich habe sie auch nur verlinkt, auch wenn sie Trent veröffentlicht, so bleiben die Songs sein Eigentum.
+
+Trent hat damals übrigens folgende [Notiz](http://www.ninremixes.com/downloads/Official%20-%20The%20Hand%20That%20Feeds%20-%20READ%20ME%20FROM%20TRENT.rtf) [^1] zum Song "The Hand That Feeds" veröffentlicht.
 
 ---
 
