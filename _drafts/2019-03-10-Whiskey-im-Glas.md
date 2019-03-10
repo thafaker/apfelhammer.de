@@ -4,9 +4,12 @@ title: Whiskey in the Jar…
 date:
 image: XXX.jpg
 tags:
- - template
- - bitte ausfüllen
- - draft
+ - persönlich
+ - gedanken
+ - musik
+ - Thin Lizzy
+ - Intro
+ - 
 ---
 
 **Es** gibt ja viele Songs die mich in der einen oder anderen Art und Weise berühren, und manchmal schreibe ich dann auch darüber. Heute ist das zum Beispiel ein Song, den ich in letzter Zeit schon fast vergessen hatte, aber nun doch eher zufällig mal wieder darüber stolpterte und er nichts von seiner Faszination verloren hat.
