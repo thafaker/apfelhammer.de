@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Whiskey in the Jar…
-date: 10.3.2019, 21:14:33
+date: 2019-03-10, 21:14:33
 image: xxx.jpg
 tags:
  - persönlich
