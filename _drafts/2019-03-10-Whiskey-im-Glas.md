@@ -4,14 +4,14 @@ title: Whiskey in the Jar…
 date: 2019-03-10, 21:14:33
 image: xxx.jpg
 tags:
- - persönlich
- - gedanken
- - musik
- - Thin Lizzy
- - Intro
- - phil lynott
----
+- persönlich
+- gedanken
+- musik
+- Thin Lizzy
+- Intro
+- phil lynott
 
+---
 **Dieser** Song! *Dieses* Intro! Dieser **Phil Lynott**! *Whiskey in the Jar* berührt mich immer wieder aufs Neue. Er verkörpert einfach alles, was ich einem guten Song zuschreibe! Das geht mit der tragischen Geschichte des Lead-Sängers los und hört beim Gitarrespiel auf.
 
 <div align="center">
