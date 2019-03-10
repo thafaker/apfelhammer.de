@@ -9,10 +9,9 @@ tags:
  - musik
  - Thin Lizzy
  - Intro
- - 
 ---
 
-**Es** gibt ja viele Songs die mich in der einen oder anderen Art und Weise berühren, und manchmal schreibe ich dann auch darüber. Heute ist das zum Beispiel ein Song, den ich in letzter Zeit schon fast vergessen hatte, aber nun doch eher zufällig mal wieder darüber stolpterte und er nichts von seiner Faszination verloren hat.
+**Dieser** Song! Das Intro! Phil Lynott! *Whiskey in the Jar* berührt mich immer wieder aufs Neue. Er verkörpert einfach alles! Das geht mit der tragischen Geschichte des Lead-Sängers los und hört beim Gitarrespiel auf.
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wyQ-tScuzwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,4 +25,4 @@ tags:
 
 **Fußnoten**:
 
-[^1]: XXX
+Keine Fußnoten in diesem Artikel.
