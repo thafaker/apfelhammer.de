@@ -4,17 +4,17 @@ title: The Hand That Feed
 date: 1.3.2019, 20:02:09
 image: trent.jpg
 tags:
- - Nine Inch Nails
- - Trent Reznor
- - Garageband
----
+- Nine Inch Nails
+- Trent Reznor
+- Garageband
 
+---
 **An** dieser Stelle möchte ich gern an eine länger zurück liegende Sache erinnern, die aber immer noch funktioniert und die ich neulich, im Zuge meines **Mac Pro** (dazu habe ich [hier](https://thahipster.de/2019-02-03-mac-pro) etwas geschrieben), wieder entdeckt habe. Die Rede ist von der Band **Nine Inch Nails** des Sängers *Trent Reznor* und deren Umgang mit dem Internet, besser gesagt mit ihren Hörern und mit ihrer Musik.
 
 ![Trent Reznor](/content/images/trent.jpg)
 Nine Inch Nails (NIИ) wurde 1988 in Cleveland, Ohio gegründet, aber nicht als herkömmliche Band, sondern als Musikprojekt, das ausschließlich der Realisierung der musikalischen Ideen Reznors dient.
 
-Aber wie dem auch sei, jener Trent Reznor hat vor geraumer Zeit angefangen, immer mal wieder verschiedene Musikstücke in wiederverarbeitbarer Form dem Internet zum Download zur Verfügung zu stellen, weil er davon ausging dass die Kreativität des Netzes schon was daraus machen würde. Die sogenannten "open sourced Nine Inch Nails tracks". Ein Geschenk. Und so kann man diese großartigen Musikstücke herunter laden und auf seinem heimischen Mac kreativ bearbeiten. Mit **Garageband**. Spurgetreu. Ich habe mich da just wieder drin verloren, auf meinem Mac Pro mit seinem 30 Zoll Bildschirm, ([hier](https://thahipster.de/2019-02-09-apple-cinema-hd-display-2019)) da macht das nämlich richtig Laune.
+Aber wie dem auch sei, jener Trent Reznor hat vor geraumer Zeit angefangen, immer mal wieder verschiedene Musikstücke in wiederverarbeitbarer Form dem Internet zum Download zur Verfügung zu stellen, weil er davon ausging dass die Kreativität des Netzes schon was daraus machen würde. Die sogenannten "open sourced Nine Inch Nails tracks". Ein Geschenk. Und so kann man diese großartigen Musikstücke herunter laden und auf seinem heimischen Mac kreativ bearbeiten. Mit **Garageband**. Spurgetreu. Ich habe mich da just wieder drin verloren, auf meinem Mac Pro mit seinem 30 Zoll Bildschirm, ([hier](https://thafaker.de/das-legendare-30-zoll-cinema-display-von-apple/)) da macht das nämlich richtig Laune.
 
 ![Garageband auf Apple Cinema Display 30"](/assets/2019/03/garageband.png)
 <small>Garageband auf Apple Cinema Display 30"</small>
