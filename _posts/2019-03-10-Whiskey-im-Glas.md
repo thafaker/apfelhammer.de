@@ -20,6 +20,8 @@ tags:
 
 Für das Intro, für Phil!
 
+---
+
 <small>
 **Artikelbild**: Photo by [Dylan de Jonge](https://unsplash.com/photos/pe9T4ROjpzQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.
 </small>

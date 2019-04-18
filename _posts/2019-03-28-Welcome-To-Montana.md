@@ -14,6 +14,8 @@ tags:
 
 Kurzum, wenn man eigentlich die Sonne mag - und doch zwei Herzen in einer Brust schlagen. Wie bei mir. [^1] Denn prinzipiell bin ich *kein* Kind der Sonne. Ich bin ein Nordmann. Und doch fehlt mir oft das Licht. Eine art bipolare Schizophrenie, meinen sie nicht aucht?
 
+---
+
 <small>
 **Artikelbild**: Photo by [Max LaRochelle](https://unsplash.com/photos/uu-Jw5SunYI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash.
 </small>
