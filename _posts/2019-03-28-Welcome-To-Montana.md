@@ -12,7 +12,7 @@ tags:
 
 ![The Weather Is Fine](/content/images/weather.jpg)
 
-Kurzum, wenn man eigentlich die Sonne mag - und doch zwei Herzen in einer Brust schlagen. Wie bei mir. [^1] Denn prinzipiell bin ich *kein* Kind der Sonne. Ich bin ein Nordmann. Und doch fehlt mir oft das Licht. Eine art bipolare Schizophrenie, meinen sie nicht aucht?
+Kurzum, wenn man eigentlich die Sonne mag - und doch zwei Herzen in einer Brust schlagen. Wie bei mir. [^1] Denn prinzipiell bin ich *kein* Kind der Sonne. Ich bin ein Nordmann. Und doch fehlt mir oft das Licht. Etwas bipolar, meinen sie nicht auch?
 
 ---
 
