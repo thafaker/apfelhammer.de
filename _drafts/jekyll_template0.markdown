@@ -1,0 +1,76 @@
+---
+layout: post
+title: Townes Van Zandt - Our Mother The Mountain
+date: 30.4.2019, 20:00:04
+image: townes.jpg
+tags:
+ - musique
+ - gefühlt
+ - gedacht
+---
+
+Das ist **unglaublich**. Manchmal passiert mir das also doch noch. *Was denn?* Na dass mich etwas mit so einem Impact erwischt, als dass es nachhaltig ist. Denn Nachhaltigkeit, die fehlt in unser aller schnelllebigen Welten. Egal in welchen wir uns auch gerade aufhalten mögen, die oberflächliche Schnelllebigkeit, sie ist uns allen gemein.
+
+**Townes Van Zandt** ist eine furchtbar traurige Gestalt.
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DW4XgQvcDsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+Van Zandt schaffte es nie über seinen Kultstatus hinaus zum großen kommerziellen Durchbruch, auch wenn andere Musiker mit Coverversionen seiner Songs Erfolg hatten. Dies lag nicht zuletzt daran, dass er manisch-depressiv, drogen- und bis zuletzt alkoholabhängig war. [^1]
+
+> My lover comes to me with a rose on her bosom
+The moon's dancin' purple
+All through her black hair
+And a ladies-in-waiting she stands 'neath my window
+And the sun will rise soon
+On the false and the fair
+
+> She tells me she comes from my mother the mountain
+Her skin fits her tightly
+And her lips do not lie
+She silently slips from her throat a medallion
+Slowly she twirls it
+In front of my eyes
+
+> I watch her, I love her, I long for to touch her
+The satin she's wearin'
+Is shimmering blue
+Outside my window her ladies are sleeping
+My dogs have gone hunting
+The howling is through
+
+> So I reach for her hand and her eyes turns to poison
+And her hair turns to splinters,
+And her flesh turns to brine
+She leaps cross the room, she stands in the window
+And screams that my first-born
+Will surely be blind
+
+> She throws herself out to the black of the nightfall
+She's parted her lips
+But she makes not a sound
+I fly down the stairway, and I run to the garden
+No trace of my true love
+Is there to be found
+
+> So walk these hills lightly, and watch who you're lovin'
+By mother the mountain
+I swear that it's true
+Love not a woman with hair black as midnight
+And her dress made of satin
+All shimmering blue
+
+Ich muss euch an dieser Stelle etwas gestehen! Ich mag das Dunkle im Leben sehr. Für mich ist immer etwas Melancholie in allem was ich tue und erlebe, wisst ihr? Ich mag die *gefallenen Engel* mehr als die strebsam Erfolgreichen, als die bei denen immer alles glatt läuft.
+
+---
+
+<small>
+**Artikelbild**: Michael Schwarz, 23 November 1995. Singer-Songwriter Townes Van Zandt in Concert at "Kult" Niederstetten, Germany. [Link](https://commons.wikimedia.org/wiki/File:Townes_Van_Zandt.jpg)
+</small>
+
+---
+
+**Fußnoten**:
+
+[^1]: Er wurde 52 Jahre alt.
