@@ -27,4 +27,4 @@ Viele denken bei dieser Stimme übrigens, dass es ein Lied der *Rolling Stones* 
 
 **Fußnoten**:
 
-[^1]: Den Song schrieb Dylan im Jahr 1965 und bereits 1966 wurde er von Van Morrison, vielmehr seiner damaligen Band Them, gecovert. Es gilt als bekannteste Interpretation des Songs.
+[^1]: Den Song schrieb Dylan im Jahr 1965 und bereits 1966 wurde er von Van Morrison, vielmehr seiner damaligen Band Them, in eben jener Version gecovert. Es gilt als bekannteste Interpretation des Songs.
