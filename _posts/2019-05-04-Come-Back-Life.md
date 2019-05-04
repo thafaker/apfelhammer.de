@@ -7,7 +7,7 @@ tags:
  - vinyl
  - kadavar
  - musique
- - RotoR
+ - rotor
 ---
 
 **An** dieser Stelle wird es einfach mal wieder Zeit für ein paar wichtige Lebensinhalte, zum Teil. Ich habe genau so einen [Artikel schon mal](https://apfelhammer.de/2017/03/05/lebensinhalte-zum-teil/) geschrieben, es ist gar nicht so lange her. Es ging um Rennradfahren und Schallplatte-Hören. Und so ist es geblieben. An solch grundsätzlichen Dingen ändert sich demnach auch nicht so einfach etwas. Aber andauernd verändert sich alles um uns herum. Und wir versuchen Schritt zu halten.
@@ -16,25 +16,25 @@ Müssen Schritt halten. Weil es eben jene Umwelt von uns verlangt. Unsere Gesell
 
 Diesmal ist es der Stone Rock, der es mir wieder angetan hat. Genauer die Jungs um *KADAVAR*, jener Stoner Rock Band die mancher Orts sogar als die Speerspitze des Occult-Metal bezeichnet werden. Aber sie selbst streiten das ab. Was auch gut so ist. Spielball und sowas.
 
-![](/content/images/2019/05/kadavar/1.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/1.png)
 
-![](/content/images/2019/05/kadavar/1.5png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/1.5png)
 
-![](/content/images/2019/05/kadavar/2.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/2.png)
 
-![](/content/images/2019/05/kadavar/3.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/3.png)
 
-![](/content/images/2019/05/kadavar/4.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/4.png)
 
-![](/content/images/2019/05/kadavar/5.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/5.png)
 
-![](/content/images/2019/05/kadavar/5.5png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/5.5png)
 
-![](/content/images/2019/05/kadavar/6.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/6.png)
 
-![](/content/images/2019/05/kadavar/7.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/7.png)
 
-![](/content/images/2019/05/kadavar/8.png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/8.png)
 
 Und am Ende möchte ich gern auf eine ganz andere, aber eben jene Band aufmerksam machen, die ich bisher nicht kannte - völlig zu unrecht jedoch sind sie scheinbar an mir vorbei gegangen. In Rede stehen RotoR, einer bis auf das erste Album *Instrumental-Stoner-Rock-Band* aus Berlin. [^1]
 
