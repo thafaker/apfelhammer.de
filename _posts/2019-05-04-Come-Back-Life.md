@@ -20,7 +20,7 @@ Diesmal ist es der Stoner Rock, der es mir wieder angetan hat. Genauer die Jungs
 
 ![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/1.png)
 
-![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/1.5png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/1.5.png)
 
 ![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/2.png)
 
@@ -30,7 +30,7 @@ Diesmal ist es der Stoner Rock, der es mir wieder angetan hat. Genauer die Jungs
 
 ![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/5.png)
 
-![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/5.5png)
+![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/5.5.png)
 
 ![Vinyl Cover Schallplatte KADAVAR](/content/images/2019/05/kadavar/6.png)
 
@@ -44,7 +44,7 @@ Und am Ende möchte ich gern auf eine ganz andere, aber eben jene Band aufmerksa
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nFTCGS2aZtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Versucht diese Musik mal wirken zu lassen, es lohnt sich. Laut Allmusic basiert der Stoner Rock auf Einflüssen des Punk und des Bluesrock, aber ebenso greifen die Interpreten auf Elemente des Doom Metal und des Psychedelic Rock zurück. Dabei werden Bands wie Black Sabbath, The Melvins, Saint Vitus, Blue Cheer, Blue Öyster Cult und Hawkwind als Vorbilder ausgemacht. Die Stoner-Rock-Gruppen ergänzen diesen Stil aus Doom, Punk, Psychedelic- und Acid Rock um den brummenden Klang der frühen Grunge-Interpreten des Labels Sub Pop.
+Versucht *diese* Musik mal wirken zu lassen, es lohnt sich! Laut Allmusic basiert der **Stoner Rock** auf Einflüssen des Punk und des Bluesrock, aber ebenso greifen die Interpreten auf Elemente des Doom Metal und des Psychedelic Rock zurück. Dabei werden Bands wie *Black Sabbath*, *The Melvins, Saint Vitus, Blue Cheer, Blue Öyster Cult* und *Hawkwind* [^2] als Vorbilder ausgemacht. Die Stoner-Rock-Gruppen ergänzen diesen Stil aus Doom, Punk, Psychedelic- und Acid Rock um den brummenden Klang der frühen Grunge-Interpreten des Labels Sub Pop.
 
 ---
 
@@ -57,3 +57,4 @@ Versucht diese Musik mal wirken zu lassen, es lohnt sich. Laut Allmusic basiert 
 **Fußnoten**:
 
 [^1]: RotoR ist eine instrumentale, progressive Stoner-Rock-Band aus Berlin, die 1998 gegründet wurde. Die Gruppe entwickelte einen eigenständigen zumeist rein instrumental arrangierten Stil. ([Quelle](https://de.wikipedia.org/wiki/RotoR))
+[^2]: Ich mag den *Spacerock* von Hawkwind auch sehr.
