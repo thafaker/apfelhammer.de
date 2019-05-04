@@ -4,10 +4,10 @@ title: Come Back Life
 date: 04.05.2019, 18:54:57
 image: kadavar.png
 tags:
- - vinyl
- - kadavar
- - musique
- - rotor
+- vinyl
+- kadavar
+- musique
+- RotoR
 ---
 
 **An** dieser Stelle wird es einfach mal wieder Zeit für ein paar wichtige Lebensinhalte, zum Teil. Ich habe genau so einen [Artikel schon mal](https://apfelhammer.de/2017/03/05/lebensinhalte-zum-teil/) geschrieben, es ist gar nicht so lange her. Es ging um Rennradfahren und Schallplatte-Hören. Und so ist es geblieben. An solch grundsätzlichen Dingen ändert sich demnach auch nicht so einfach etwas. Aber andauernd verändert sich alles um uns herum. Und wir versuchen Schritt zu halten.
