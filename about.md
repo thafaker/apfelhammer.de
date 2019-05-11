@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Ich [^1] schreibe hier über meine Erlebnisse. Das mag befremdlich klingen, hilft es mir selbst aber, mich auch in *fünf Jahren* noch erinnern zu können. Denn Gedanken sind **fluide**, Gefühle und Zeiten sind es auch. Grund genug, sie festzuschreiben. In einem Weblog, *hier*! Ich interessiere mich auch sehr für Technik wie Computer, alte Computer, Apple Computer, Shell und Terminal, Webservices, Server und schreibe darüber an dieser Stelle unter [thahipster.de](https://thahipster.de).
+Ich [^1] schreibe hier über meine Erlebnisse. Das mag befremdlich klingen, hilft es mir selbst aber, mich auch in *fünf Jahren* noch erinnern zu können. Denn Gedanken sind **fluide**, Gefühle und Zeiten sind es auch. Grund genug, sie festzuschreiben. In einem Weblog, *hier*! Ich interessiere mich sehr für Technik wie Computer, alte Computer, Apple Computer, Shell und Terminal, Webservices, Server und schreibe darüber an dieser Stelle unter [thahipster.de](https://thahipster.de).
 
 ![Stereoanlage](/assets/about/stereo1.jpg)
 <small>Meine Vintage Stereo Anlage</small>
@@ -14,9 +14,9 @@ Ich habe Interesse an folgenden Dingen, die auch in meinem Weblog immer wieder k
 - Vintage-Hifi
 - Musik, Konzerte
 - Rennradfahren
-- Vintage-Computing (darüber schreibe ich [hier](https://thahipster.de))
-- Apple Computer (darüber schreibe ich [hier](https://thahipster.de))
-- Terminal / Linux / Shell (darüber schreibe ich [hier](https://thahipster.de))
+- Vintage-Computing (darüber schreibe ich [hier](https://thafaker.de/atari-1040-st-in-2018/))
+- Apple Computer (darüber schreibe ich [hier](https://thafaker.de/tag/bigmac/))
+- Terminal / Linux / Shell (darüber schreibe ich [hier](https://www.thafaker.de/tag/terminal/))
 
 ![Vintage Rennrad](/assets/about/rennrad.jpg)
 
