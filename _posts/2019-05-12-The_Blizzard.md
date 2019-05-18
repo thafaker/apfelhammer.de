@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Der Schneesturm von 1996
+title: Der Schneesturm von Neunzehnsechsundneunzig
 date: 18.5.2019, 23:14:43
 image: schnee.jpg
 tags:
