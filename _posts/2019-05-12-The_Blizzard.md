@@ -5,7 +5,6 @@ date: 18.5.2019, 23:14:43
 image: schnee.jpg
 tags:
 - gedacht
-- gehört
 ---
 
 **Wie immer** hat der Titel dieses Beitrags nichts mit seinem Inhalt gemein. Aber am Scheideweg zu stehen, zumindest innerlich, das ist gar nicht leicht. Und wie oft steht man so am Scheideweg, in seinem Leben? Das kommt darauf an! Gefühlt viel öfter, als das wirklich der notwendige Fall ist. Aber wie dem auch sei…
