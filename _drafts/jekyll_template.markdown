@@ -3,7 +3,7 @@ layout: post
 title: Jekyll leerer Post Gerüst, bitte kopieren
 date: ''
 image: XXX.jpg
-tags: 
+tags:
  - template
  - bitte ausfüllen
  - draft
@@ -12,6 +12,8 @@ tags:
 Dies ist ein Datei-Gerüst für *jekyll*. Bitte lopieren und editieren. Dankesehr. Text kommt hier hin.
 
 PS: Wenn das Date leer bleibt, wird der Artikel nicht veröffentlicht
+
+---
 
 <small>
 **Artikelbild**: Photo by [Namroud Gorguis](https://unsplash.com/photos/FZWivbri0Xk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/search/photos/music?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
