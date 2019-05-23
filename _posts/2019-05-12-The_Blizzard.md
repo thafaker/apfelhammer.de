@@ -9,13 +9,14 @@ tags:
 ---
 **Wie immer** hat der Titel dieses Beitrags nichts mit seinem Inhalt gemein. Aber am Scheideweg zu stehen, zumindest innerlich, das ist gar nicht leicht. Und wie oft steht man so am Scheideweg, in seinem Leben? Das kommt darauf an! Gefühlt viel öfter, als das wirklich der notwendige Fall ist. Aber wie dem auch sei…
 
-An dieser Stelle ist es Zeit für etwas Stadtromantik. Also von Hausbesetzer-Romantik. *Nicht sehr romantisch*, meinen Sie? Well… Sie müssen sich schon darauf einlasse. Ich schlage Ihnen folgendes Lied vor. Wenn sie das gehört haben, dann können Sie ja immer noch entscheiden. *Abgemacht*? "Abgemacht"!
+An dieser Stelle ist es Zeit für etwas Stadtromantik. Also von Hausbesetzer-Romantik. *Nicht sehr romantisch*, meinen Sie? Well… Sie müssen sich schon darauf einlassen. Ich schlage Ihnen folgendes Lied vor. Und wenn Sie das gehört haben, dann können Sie ja immer noch entscheiden.
+*Abgemacht*? "Abgemacht"!
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BR7Wb13bXEg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-*Boys don't cry* höre ich da plötzlich den alten Robert Smith mit The Cure singen, und es klingt wie eine Verheißung. Aber worauf? Darauf, dass es immer eine Last zu tragen gilt. [^1]
+Und nach all dem Gerede über mögliche Abzweigungen im Leben, da höre ich mit *Boys don't cry* plötzlich den alten *Robert Smith* mit **The Cure** singen, und es klingt wie eine Verheißung. Aber worauf? Darauf, dass es eigentlich immer eine Last zu tragen gilt, immer. [^1]
 
 ---
 
@@ -27,4 +28,4 @@ An dieser Stelle ist es Zeit für etwas Stadtromantik. Also von Hausbesetzer-Rom
 
 **Fußnoten**:
 
-[^1]: Der Autor ist großer *The Cure* Fan und hat sie 2016 live in Leipzig gesehen.
+[^1]: Der Autor ist großer *The Cure* Fan und hat sie 2016 live in Leipzig erlebt.
