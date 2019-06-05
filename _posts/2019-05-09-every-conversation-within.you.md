@@ -20,7 +20,7 @@ Lassen wir also den oben zitierten Song zu Wort kommen.
 </div>
 
 <small>
-**Artikelbild**: Photo by Jan Montag 2019.
+**Artikelbild**: Photo by me 2019.
 </small>
 
 ---
